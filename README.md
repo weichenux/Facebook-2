@@ -12,4 +12,6 @@ Week 3 Facebook Assignment
 
 ### GIF walkthrough
 ![Video Walkthrough](Facebook.gif)
-![proof of Treehouse course completion](course complete.png)
+
+### Proof of Treehouse course completion
+![proof of Treehouse course completion](course completion.png)
